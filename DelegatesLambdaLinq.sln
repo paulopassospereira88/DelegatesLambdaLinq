@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03MetodosAnonimos", "03Meto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04ExpressaoLambda", "04ExpressaoLambda\04ExpressaoLambda.csproj", "{5A2BA836-4C24-45F8-B43F-CD83929E1CB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05DelegatePredicate", "05DelegatePredicate\05DelegatePredicate.csproj", "{44A250EF-8D2B-4067-8B11-7A898CE1FF66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5A2BA836-4C24-45F8-B43F-CD83929E1CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A2BA836-4C24-45F8-B43F-CD83929E1CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A2BA836-4C24-45F8-B43F-CD83929E1CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A250EF-8D2B-4067-8B11-7A898CE1FF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A250EF-8D2B-4067-8B11-7A898CE1FF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A250EF-8D2B-4067-8B11-7A898CE1FF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A250EF-8D2B-4067-8B11-7A898CE1FF66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
