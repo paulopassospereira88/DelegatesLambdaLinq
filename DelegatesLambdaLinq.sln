@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10EventHandler", "10EventHa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11EventHandler", "11EventHandler\11EventHandler.csproj", "{16A552BB-35ED-493F-A7E1-8DDCEC0E736B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12MetodosDeExtensao", "12MetodosDeExtensao\12MetodosDeExtensao.csproj", "{584593A2-1045-4877-B35E-18A30B10AA1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{16A552BB-35ED-493F-A7E1-8DDCEC0E736B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16A552BB-35ED-493F-A7E1-8DDCEC0E736B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16A552BB-35ED-493F-A7E1-8DDCEC0E736B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584593A2-1045-4877-B35E-18A30B10AA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584593A2-1045-4877-B35E-18A30B10AA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584593A2-1045-4877-B35E-18A30B10AA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584593A2-1045-4877-B35E-18A30B10AA1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
