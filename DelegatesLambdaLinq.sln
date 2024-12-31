@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11EventHandler", "11EventHa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12MetodosDeExtensao", "12MetodosDeExtensao\12MetodosDeExtensao.csproj", "{584593A2-1045-4877-B35E-18A30B10AA1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13Linq", "13Linq\13Linq.csproj", "{604DF8D8-C2BC-46A8-BF9A-C4DF3AB669D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{584593A2-1045-4877-B35E-18A30B10AA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{584593A2-1045-4877-B35E-18A30B10AA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{584593A2-1045-4877-B35E-18A30B10AA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604DF8D8-C2BC-46A8-BF9A-C4DF3AB669D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604DF8D8-C2BC-46A8-BF9A-C4DF3AB669D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604DF8D8-C2BC-46A8-BF9A-C4DF3AB669D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604DF8D8-C2BC-46A8-BF9A-C4DF3AB669D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
